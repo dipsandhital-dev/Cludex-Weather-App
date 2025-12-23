@@ -40,3 +40,35 @@ Cloudex is a full-stack weather forecasting application built using the MERN sta
 
 ## 📂 Project Structure
 
+cloudex/
+│
+├── client/ # React frontend
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── services/
+│ │ ├── App.js
+│ │ └── index.js
+│
+├── server/ # Node & Express backend
+│ ├── routes/
+│ ├── controllers/
+│ ├── config/
+│ ├── server.js
+│
+├── .env
+├── package.json
+└── README.md
+
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/cloudex.git
+cd cloudex
+
+
